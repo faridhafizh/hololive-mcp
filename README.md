@@ -1,6 +1,6 @@
 <div align="center">
 
-# hololive-mcp
+# Hololive MCP
 
 **An MCP server that brings hololive talent profiles and news to any AI client.**
 
